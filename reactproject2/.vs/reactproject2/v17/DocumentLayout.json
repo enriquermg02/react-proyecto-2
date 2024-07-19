@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enriq\\Desktop\\ReacVs\\baseReact\\reactproject2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{663B38C2-C2AF-4E7F-A5FF-3772D8F90C6B}|reactproject2\\reactproject2.esproj|c:\\users\\enriq\\desktop\\reacvs\\basereact\\reactproject2\\reactproject2\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{663B38C2-C2AF-4E7F-A5FF-3772D8F90C6B}|reactproject2\\reactproject2.esproj|solutionrelative:reactproject2\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B38C2-C2AF-4E7F-A5FF-3772D8F90C6B}|reactproject2\\reactproject2.esproj|c:\\users\\enriq\\desktop\\reacvs\\basereact\\reactproject2\\reactproject2\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{663B38C2-C2AF-4E7F-A5FF-3772D8F90C6B}|reactproject2\\reactproject2.esproj|solutionrelative:reactproject2\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663B38C2-C2AF-4E7F-A5FF-3772D8F90C6B}|reactproject2\\reactproject2.esproj|c:\\users\\enriq\\desktop\\reacvs\\basereact\\reactproject2\\reactproject2\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{663B38C2-C2AF-4E7F-A5FF-3772D8F90C6B}|reactproject2\\reactproject2.esproj|solutionrelative:reactproject2\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\enriq\\Desktop\\ReacVs\\baseReact\\reactproject2\\reactproject2\\src\\App.jsx",
+              "RelativeDocumentMoniker": "reactproject2\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\enriq\\Desktop\\ReacVs\\baseReact\\reactproject2\\reactproject2\\src\\App.jsx",
+              "RelativeToolTip": "reactproject2\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-18T21:20:52.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\enriq\\Desktop\\ReacVs\\baseReact\\reactproject2\\reactproject2\\src\\App.css",
+              "RelativeDocumentMoniker": "reactproject2\\src\\App.css",
+              "ToolTip": "C:\\Users\\enriq\\Desktop\\ReacVs\\baseReact\\reactproject2\\reactproject2\\src\\App.css",
+              "RelativeToolTip": "reactproject2\\src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-18T21:20:50.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\enriq\\Desktop\\ReacVs\\baseReact\\reactproject2\\reactproject2\\package.json",
+              "RelativeDocumentMoniker": "reactproject2\\package.json",
+              "ToolTip": "C:\\Users\\enriq\\Desktop\\ReacVs\\baseReact\\reactproject2\\reactproject2\\package.json",
+              "RelativeToolTip": "reactproject2\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T18:35:14.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
